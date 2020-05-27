@@ -1,0 +1,9 @@
+{
+  "title": "SpaceX Countdown",
+  "time": "May 27, 2020 16:33:35",
+  "backgroundColor": "black",
+  "textColor": "white",
+  "timeFontSize": "96px",
+  "mainTitle": "SpaceX Launch",
+  "mainTitleSize": "56px"
+}
