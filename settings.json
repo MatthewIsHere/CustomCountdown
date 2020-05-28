@@ -1,9 +1,18 @@
 {
-  "title": "SpaceX Countdown",
-  "time": "May 27, 2020 16:33:35",
-  "backgroundColor": "black",
-  "textColor": "white",
-  "timeFontSize": "96px",
-  "mainTitle": "SpaceX Launch",
-  "mainTitleSize": "56px"
+  "time": "May 30, 2020 15:23:00",
+  "includeSign": true,
+  "includeT": true,
+  "displaySettings": {
+    "window": {
+      "title": "SpaceX Countdown",
+      "backgroundColor": "black",
+      "textColor": "white",
+      "fontSize": "96px"
+    },
+    "mainTitle": {
+      "text": "SpaceX Launch",
+      "textSize": "56px",
+      "textColor": "white"
+    }
+  }
 }
